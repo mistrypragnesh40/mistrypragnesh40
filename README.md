@@ -49,6 +49,15 @@ CI/CD         GitHub Actions  |  Azure DevOps
 
 ---
 
+### Published Apps
+
+| App | Platform | Link |
+|-----|----------|------|
+| **Nityamala** | Android | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.nityamala) |
+| **Vaccine Tracker** | Android | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.vaccinetracker) |
+
+---
+
 ### GitHub Activity
 
 <div align="center">
