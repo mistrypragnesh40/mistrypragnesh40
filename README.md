@@ -1,22 +1,77 @@
+<div align="center">
 
-## 🌐 Connect Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/programingwithpragnesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragnesh-mistry-500aa9125) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pragnesh_2831) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ProgrammingWithPragnesh) 
+# Hey, I'm Pragnesh Mistry
 
-# 💻 Skills:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mistrypragnesh40&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mistrypragnesh40&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mistrypragnesh40&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+**Senior Software Engineer | .NET MAUI | Mobile & Cloud**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build cross-platform mobile apps and open-source developer tools.
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ProgrammingWithPragnesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragnesh-mistry-500aa9125)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pragnesh_2831)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/programingwithpragnesh)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mistrypragnesh40&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pragnesh40) 
+### What I Do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Building production mobile apps with **.NET MAUI** (iOS + Android)
+- Creating developer tools with **Claude Code AI**
+- Teaching .NET & mobile development on **YouTube**
+- Previously: Xamarin, Blazor, ASP.NET Web API
+
+---
+
+### Tech Stack
+
+```
+Mobile        .NET MAUI  |  Flutter  |  Xamarin
+Backend       ASP.NET  |  Web API  |  Node.js
+Cloud         AWS (Lambda, S3, Cognito)  |  Firebase
+Database      SQL Server  |  SQLite  |  PostgreSQL
+AI Tools      Claude Code  |  Amazon Bedrock
+CI/CD         GitHub Actions  |  Azure DevOps
+```
+
+---
+
+### Featured Projects
+
+| Project | What It Is | Stars |
+|---------|-----------|-------|
+| [**claude-maui-config**](https://github.com/mistrypragnesh40/claude-maui-config) | Claude Code toolkit for .NET MAUI — 12 commands, 4 AI agents, 3 hooks | NEW |
+| [**SimpleLoginUI**](https://github.com/mistrypragnesh40/SimpleLoginUI) | Clean login UI template for .NET MAUI | 74 |
+| [**SQLiteDemoMAUI**](https://github.com/mistrypragnesh40/SQLiteDemoMAUI) | SQLite CRUD operations in .NET MAUI | 49 |
+| [**PushNotificationDemoMAUI**](https://github.com/mistrypragnesh40/PushNotificationDemoMAUI) | Firebase push notifications in .NET MAUI | 36 |
+| [**LoginFlowBlazorApp**](https://github.com/mistrypragnesh40/LoginFlowBlazorApp) | Complete login flow with Blazor | 26 |
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mistrypragnesh40&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mistrypragnesh40&theme=github-dark-blue&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+### Latest from YouTube
+
+<!-- YOUTUBE:START -->
+Check out my channel: [Programming With Pragnesh](https://youtube.com/@ProgrammingWithPragnesh)
+<!-- YOUTUBE:END -->
+
+---
+
+<div align="center">
+
+**164 followers** &nbsp; | &nbsp; **51 repos** &nbsp; | &nbsp; **India**
+
+If my repos helped you, consider giving them a star or [buying me a coffee](https://buymeacoffee.com/pragnesh40).
+
+</div>
