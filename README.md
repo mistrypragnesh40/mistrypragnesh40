@@ -18,6 +18,7 @@ I build cross-platform mobile apps and open-source developer tools.
 ### What I Do
 
 - Building production mobile apps with **.NET MAUI** (iOS + Android)
+- Building apps with **AI-assisted development** (Claude Code, Amazon Bedrock)
 - Creating developer tools with **Claude Code AI**
 - Teaching .NET & mobile development on **YouTube**
 - Previously: Xamarin, Blazor, ASP.NET Web API
@@ -51,10 +52,10 @@ CI/CD         GitHub Actions  |  Azure DevOps
 
 ### Published Apps
 
-| App | Platform | Link |
-|-----|----------|------|
-| **Nityamala** | Android | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.nityamala) |
-| **Vaccine Tracker** | Android | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.vaccinetracker) |
+| App | Platform | Note | Link |
+|-----|----------|------|------|
+| **Nityamala** | Android | Flutter + AI | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.nityamala) |
+| **Vaccine Tracker** | Android | Flutter + AI | [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.pj.vaccinetracker) |
 
 ---
 
